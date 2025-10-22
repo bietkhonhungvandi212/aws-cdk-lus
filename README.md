@@ -143,5 +143,4 @@ Contributions are welcome! Please submit a pull request or open an issue to disc
 - AWS Official Document: https://docs.aws.amazon.com/
 - Great Project: https://stratospheric.dev/
 - AWS Study Group: https://www.facebook.com/groups/660548818043427/?hoisted_section_header_type=recently_seen&multi_permalinks=1636629737101992
-- AWS FCJ Bootcamp#   a w s - c d k - l u s  
- 
+- AWS FCJ Bootcamp
